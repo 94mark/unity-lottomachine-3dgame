@@ -1,6 +1,7 @@
 # unity-lottomachine-3dgame
 로또머신 게임 제작
 
+https://user-images.githubusercontent.com/90877724/160545245-28e511fc-137f-4952-8e6d-cb564840af6e.mp4
 
 ## 프로젝트 개요
 ### 개발 인원/기간 및 포지션
